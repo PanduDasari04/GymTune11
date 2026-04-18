@@ -1,0 +1,2 @@
+::-webkit-scrollbar{width:5px;height:5px}::-webkit-scrollbar-track{background:#f9fafb}::-webkit-scrollbar-thumb{background:#d1d5db;border-radius:99px}::-webkit-scrollbar-thumb:hover{background:#9ca3af}input[type=range]{-webkit-appearance:none;appearance:none}input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:18px;height:18px;border-radius:50%;background:#2563eb;cursor:pointer;border:2px solid white;box-shadow:0 1px 3px #0003}*,*:before,*:after{transition-timing-function:cubic-bezier(.4,0,.2,1)}
+/*# sourceMappingURL=bundle.css.map */
