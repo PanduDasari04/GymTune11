@@ -4,7 +4,7 @@
  * Credentials are always included so Flask session cookies are sent.
  */
 
-const BASE = "http://localhost:5000";
+const BASE = "";
 
 class ApiError extends Error {
   constructor(message, status) {
